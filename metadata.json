@@ -1,0 +1,7 @@
+{
+  "name": "NDN V01",
+  "description": "سامانه پستی محله (NDN V01) - نسخه اول پایدار سامانه توزیع و دریافت محلی بسته‌ها با پنل‌های اختصاصی مشتری، سفیر، مدیر هاب، نقشه و پرتال ادمین",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
